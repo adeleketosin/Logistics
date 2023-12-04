@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font: 0.9em Inconsolata;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+}
